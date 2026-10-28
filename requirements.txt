@@ -1,0 +1,33 @@
+# FastAPI and related libraries
+fastapi
+uvicorn
+
+# For data processing and numerical computations
+numpy
+pandas
+scikit-learn
+
+# For deep learning models (if you use LSTM or any neural network)
+tensorflow
+
+# For working with dates and times
+python-dateutil
+
+# For pickling and saving models
+joblib
+
+# For interactive plotting and saving plots
+plotly
+
+# Firebase Admin SDK for uploading files
+firebase-admin
+
+# Data validation
+pydantic
+
+# Optional dependencies for development and visualization
+matplotlib
+seaborn
+jupyter
+fastapi-utils
+httpx
